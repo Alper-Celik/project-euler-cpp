@@ -3,3 +3,4 @@ set(CMAKE_CXX_STANDARD 23)
 project(project-euler-cpp)
 
 add_executable(problem-1 problem-1.cpp)
+add_executable(problem-2 problem-2.cpp)
