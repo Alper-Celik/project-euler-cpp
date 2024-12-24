@@ -1,7 +1,7 @@
 {
   "configurations": [
     {
-      "type": "cppdbg",
+      "type": "lldb",
       "request": "launch",
       "name": "Launch",
       "program": "${workspaceFolder}/build/${fileBasenameNoExtension}",
